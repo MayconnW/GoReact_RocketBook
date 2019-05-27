@@ -1,0 +1,21 @@
+.profile {
+  img {
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+  }
+  div {
+    margin-left: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    h3 {
+      color: rgba(80, 75, 75, 0.651);
+    }
+    strong {
+      color: rgba(148, 141, 141, 0.651);
+      font-size: 14px;
+    }
+  }
+  display: flex;
+}
