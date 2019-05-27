@@ -1,6 +1,6 @@
 # Bootcamp GoStack-6 - Desafio 04
 
-![GitHub tag (latest by date)](https://img.shields.io/github/tag-date/MayconnW/GoReact_RocketBook.svg?style=for-the-badge)
+![GitHub tag (latest by date)](http://img.shields.io/github/tag-date/MayconnW/GoReact_RocketBook.svg?style=for-the-badge)
 
 # Sobre o Desafio
 
